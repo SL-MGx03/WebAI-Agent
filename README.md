@@ -172,10 +172,3 @@ document.getElementById('open-site-chat').addEventListener('click', () => {
 ## License & contact
 
 This project is provided as-is for demonstration and internal use. If you want help deploying this on slmgx.live or want a tailored install, contact the repo owner (SL-MGx03) or open an issue with "Deployment help" and steps you've tried.
-
----
-
-Thanks for building a helpful, human-first assistant. If you'd like, I can:
-- Provide a sample production-ready Dockerfile and nginx configuration.
-- Create a ready-to-commit requirements.txt and .env.example.
-- Produce a polished floating chat button that directly toggles the widget on your site.
