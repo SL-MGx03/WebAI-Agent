@@ -1,7 +1,7 @@
 # setup .env Add MONGODB_URI and GOOGLE_API_KEY
 # ingest_local_code(r"/yourfilepath") update your file path (Please use a different folder for your websitecode)
 # before running remove unwanted code from your folder. 
-# as a securiity step we are also removing some type of files before embedding ('.git', 'node_modules', '__pycache__', '.env', 'venv', 'private_keys')
+# as a security step we are also removing some type of files before embedding ('.git', 'node_modules', '__pycache__', '.env', 'venv', 'private_keys')
 
 
 import os
